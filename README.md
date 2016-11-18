@@ -62,7 +62,7 @@ To get all docker containers up and running use:
 ```
 # Clone Repository and startup all docker container
 git clone git@github.com:/anuraagojha/Docker_CI.git
-cd docker-ci-tool-stack
+cd Docker_CI
 docker-compose up
 ```
 
